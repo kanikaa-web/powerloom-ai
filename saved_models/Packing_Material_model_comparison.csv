@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2,CV_R2_Mean,Accuracy_%
+LinearRegression,10.605,12.745,0.8261,0.8357,82.61
+RandomForest,10.525,12.905,0.8217,0.8266,82.17
+GradientBoosting,10.573,12.957,0.8203,0.8281,82.03
+XGBoost,10.752,13.248,0.8121,0.8196,81.21
+DecisionTree,11.32,14.16,0.7853,0.7951,78.53
